@@ -1,4 +1,4 @@
-# get_sequence_from_prokka-or-bakta_genbank
+# Get sequence from Prokka or Bakta genbank
 
 This script allows you to extract gene and protein sequences from one or more GenBank files.
 
@@ -26,4 +26,4 @@ The script accepts the following command line arguments:
 You can run the script using the following command:
 
 ```bash
-python3 get_seq_from_genbank.py -ft 'CDS' -n 'cell division protein (ftsH)' -i test_data/*/*.gbff -o ftsH_test_results_CDS.fasta
+python3 get_seq_from_genbank.py -ft 'CDS' -n 'cell division protein (ftsH)' -i *.gbff -o ftsH_CDS.fasta
