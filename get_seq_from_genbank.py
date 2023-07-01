@@ -19,7 +19,7 @@ import os # SyntaxError: import * only allowed at module level
 import sys
 import argparse
 
-from pyfiglet import Figlet
+#from pyfiglet import Figlet
 
 from Bio import SeqIO
 from Bio.Seq import * # funcions like reverse_complement, translate, etc
