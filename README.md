@@ -27,3 +27,10 @@ You can run the script using the following command:
 
 ```bash
 python3 get_seq_from_genbank.py -ft 'CDS' -n 'cell division protein (ftsH)' -i *.gbff -o ftsH_CDS.fasta
+```
+
+## Citations
+
+If you use nf-core/rnaseq for your analysis please cite:
+
+* Zenodo DOI (Coming soon ...)
