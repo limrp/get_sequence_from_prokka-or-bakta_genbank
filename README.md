@@ -31,6 +31,6 @@ python3 get_seq_from_genbank.py -ft 'CDS' -n 'cell division protein (ftsH)' -i *
 
 ## Citations
 
-If you use nf-core/rnaseq for your analysis please cite:
+If you use this script for your analysis please cite:
 
 * Zenodo DOI (Coming soon ...)
